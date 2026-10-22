@@ -3,6 +3,6 @@
     <item>Netflix</item><item>YouTube</item><item>Play Store</item><item>Configuración</item><item>Entradas</item><item>Multimedia</item>
   </string-array>
   <string-array name="dock_packages">
-    <item>com.netflix.ninja</item><item>com.google.android.youtube.tv</item><item>com.android.vending</item><item>@settings</item><item>@inputs</item><item>com.tcl.ui_mediaCenter</item>
+    <item>com.netflix.ninja</item><item>com.google.android.youtube.tv</item><item>com.android.vending</item><item>ACTION_SETTINGS</item><item>ACTION_INPUTS</item><item>com.tcl.ui_mediaCenter</item>
   </string-array>
 </resources>
